@@ -1,0 +1,29 @@
+{
+  "name": "xmeme",
+  "version": "1.0.0",
+  "description": "A meme stream application",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.15",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.7",
+    "swagger-jsdoc": "^6.0.2",
+    "swagger-ui-express": "^4.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.crio.do:COHORT_ME_BUILDOUT_XMEME_ENROLL_1612436694845/rahul-lekkala97-me_buildout_xmeme.git"
+  },
+  "author": "Rahul",
+  "license": "ISC"
+}
